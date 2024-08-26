@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>WebView (Java Script)</h2>
+
+<p>Receive Data from mobile</p>
+
+<p id="demo"></p>
+
+<button onclick="setDataToBaseMobile()">Send data to Base</button>
+
+<button onclick="setDataToExtendMobile()">Send data to Extend</button>
+
+<script>
+function receiveDataFromMobile(data) {
+    document.getElementById("demo").innerHTML = data;
+}
+function setDataToBaseMobile() {
+    mobile.receiveBaseDataFromWebView("hi Base");
+}
+
+function setDataToExtendMobile() {
+    mobile.receiveExtendDataFromWebView("hi extend class");
+}
+
+</script>
+
+</body>
+</html>
