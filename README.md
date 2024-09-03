@@ -24,7 +24,7 @@ Check if this is true for your app, if unsure, just assume that you do use cooki
 
 ## Security
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and [I|we] cannot guarantee its absolute security.
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
 ## Links to Other Sites
 
